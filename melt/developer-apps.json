@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "apps": [
+    {
+      "id": 6759607819,
+      "names": {
+        "en": "Ruby Roll – Photo Diary",
+        "ja": "Ruby Roll【写真日記】",
+        "zh-Hans": "Ruby Roll（照片日记）",
+        "zh-Hant": "Ruby Roll（照片日記）"
+      },
+      "descriptions": {
+        "en": "Automatically collect your daily photos.",
+        "ja": "毎日の写真を自動でピックアップ。",
+        "zh-Hans": "自动整理每天的照片。",
+        "zh-Hant": "自動整理每天的照片。"
+      },
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/40/a9/1d40a9e1-1734-bb15-465d-99d1d70e34a9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "storeURL": "https://apps.apple.com/app/id6759607819"
+    },
+    {
+      "id": 6771991890,
+      "names": {
+        "en": "Drop – Stacking ToDo",
+        "ja": "ドロップ【積み上げToDo】",
+        "zh-Hans": "Drop（堆叠待办）",
+        "zh-Hant": "Drop（堆疊待辦）"
+      },
+      "descriptions": {
+        "en": "Focus on what you have done.",
+        "ja": "やることより、やったこと。",
+        "zh-Hans": "专注于已经完成的事。",
+        "zh-Hant": "專注於已經完成的事。"
+      },
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/d8/e6/92d8e6c7-afcf-b837-7bdf-86b2c140e3d9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "storeURL": "https://apps.apple.com/app/id6771991890"
+    },
+    {
+      "id": 6786296515,
+      "names": {
+        "en": "Beat Berry – Simple Music Player",
+        "ja": "Beat Berry【シンプル音楽プレイヤー】",
+        "zh-Hans": "Beat Berry（简洁音乐播放器）",
+        "zh-Hant": "Beat Berry（簡潔音樂播放器）"
+      },
+      "descriptions": {
+        "en": "A simple player for enjoying your music.",
+        "ja": "音楽を楽しむためのシンプルなプレイヤー。",
+        "zh-Hans": "一款让你享受音乐的简洁播放器。",
+        "zh-Hant": "一款讓你享受音樂的簡潔播放器。"
+      },
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/21/34/202134d1-7bb4-74d1-33af-b15c617d2c1c/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/512x512bb.jpg",
+      "storeURL": "https://apps.apple.com/app/id6786296515"
+    }
+  ]
+}
