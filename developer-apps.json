@@ -2,12 +2,29 @@
   "schemaVersion": 1,
   "apps": [
     {
+      "id": 6748281581,
+      "names": {
+        "en": "Melt Memo",
+        "ja": "Melt Memo",
+        "zh-Hans": "Melt Memo",
+        "zh-Hant": "Melt Memo"
+      },
+      "descriptions": {
+        "en": "A temporary place to hold what's on your mind.",
+        "ja": "頭の荷物、一時預かり。",
+        "zh-Hans": "暂存脑海中的负担。",
+        "zh-Hant": "暫存腦海中的負擔。"
+      },
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/44/62/5c44621e-966e-a92f-d265-00ed704baefc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "storeURL": "https://apps.apple.com/app/id6748281581"
+    },
+    {
       "id": 6759607819,
       "names": {
-        "en": "Ruby Roll – Photo Diary",
+        "en": "Ruby Roll [Photo Diary]",
         "ja": "Ruby Roll【写真日記】",
-        "zh-Hans": "Ruby Roll（照片日记）",
-        "zh-Hant": "Ruby Roll（照片日記）"
+        "zh-Hans": "Ruby Roll【照片日记】",
+        "zh-Hant": "Ruby Roll【照片日記】"
       },
       "descriptions": {
         "en": "Automatically collect your daily photos.",
@@ -15,16 +32,16 @@
         "zh-Hans": "自动整理每天的照片。",
         "zh-Hant": "自動整理每天的照片。"
       },
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/40/a9/1d40a9e1-1734-bb15-465d-99d1d70e34a9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/ea/4c/0dea4c58-ce9d-f2f4-a21a-50cde6c4ff94/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "storeURL": "https://apps.apple.com/app/id6759607819"
     },
     {
       "id": 6771991890,
       "names": {
-        "en": "Drop – Stacking ToDo",
+        "en": "Drop [Stacking ToDo]",
         "ja": "ドロップ【積み上げToDo】",
-        "zh-Hans": "Drop（堆叠待办）",
-        "zh-Hant": "Drop（堆疊待辦）"
+        "zh-Hans": "Drop【堆积待办】",
+        "zh-Hant": "Drop【堆積待辦】"
       },
       "descriptions": {
         "en": "Focus on what you have done.",
@@ -32,7 +49,7 @@
         "zh-Hans": "专注于已经完成的事。",
         "zh-Hant": "專注於已經完成的事。"
       },
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/d8/e6/92d8e6c7-afcf-b837-7bdf-86b2c140e3d9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/30/9c/3d309c42-beef-9b25-5fa5-65b9459f03e0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "storeURL": "https://apps.apple.com/app/id6771991890"
     },
     {
